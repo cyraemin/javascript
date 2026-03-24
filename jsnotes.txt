@@ -1,0 +1,17 @@
+#js in console-
+1. used with alert to display a message- alert('hi')
+2. can be used as calculator
+#dom manipulation-document objeect model(change html,css, perform actions)
+html-document.body.innerHTML='<b>welcome</b>'
+css-document.getElementsByTagName('b')[0].style.fontSize= '50px'
+#CHROME EXTENSIONS-1. create features
+2. interact with web
+3.api access
+4. user experience
+eole of browser->turns html code into what u see on screen
+>helps interact with webpage, allows changes through js
+>gets html, images, etc from the server
+js alters page without reloading
+fetches and sends info to a server
+it runs at client side in the browser
+coffescript/typescript are transpiled into js

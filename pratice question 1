@@ -1,0 +1,6 @@
+1. use alert to display goodmorning
+alert('goodmorning')
+2.display name in a popup
+alert('tamsil')
+3. change facebook page to display i am learning js
+document.body.innerHTML= "im learning js"
