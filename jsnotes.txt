@@ -32,3 +32,9 @@ answers of practice exercise-
 2. document.getElementbyClassName('')
 3. document.querySelector('h1')
 4. document.querySelectorAll('.classname')-returns list
+console.log- to display a message
+console.warn-for warning
+console.error-for error
+console.clear()
+comment-//for understanding(something readable and not a code)
+/*---*/ multiline comment
