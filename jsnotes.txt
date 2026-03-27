@@ -28,3 +28,7 @@ answers of practice exercise-
 3 'method 1', "method 2", `method 3`
 
 # Javascript with html & css
+1. document.getElementbyId('name')
+2. document.getElementbyClassName('')
+3. document.querySelector('h1')
+4. document.querySelectorAll('.classname')-returns list
